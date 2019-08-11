@@ -4,6 +4,7 @@
   "description": "Interact over eIscp with NodeJs",
   "main": "Onkyo.js",
   "scripts": {
+    "start": "node Onkyo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,7 +17,7 @@
     "eIspc"
   ],
   "author": "Julian",
-  "license": "MIT",
+  "license": "MIT License",
   "bugs": {
     "url": "https://github.com/JulianTurner/Onkyo/issues"
   },
