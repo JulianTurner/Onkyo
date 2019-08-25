@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/JulianTurner/Onkyo/issues"
   },
-  "homepage": "https://github.com/JulianTurner/Onkyo#readme"
+  "homepage": "https://github.com/JulianTurner/Onkyo#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "dgram": "^1.0.1",
+    "net": "^1.0.2"
+  }
 }
