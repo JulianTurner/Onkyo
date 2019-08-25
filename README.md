@@ -1,2 +1,2 @@
-# Onkyo
-Interact over eIscp with NodeJs
+# NodeJS Onkyo 
+just some playground to get more knowlegde with NodeJS.
