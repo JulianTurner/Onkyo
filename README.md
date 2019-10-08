@@ -1,2 +1,1 @@
-# NodeJS Onkyo 
-just some playground to get more knowlegde with NodeJS.
+Since my Onkyo is broken this will be paused
