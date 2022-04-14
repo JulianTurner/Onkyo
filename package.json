@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/JulianTurner/Onkyo#readme",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "dgram": "^1.0.1",
     "net": "^1.0.2"
   }
